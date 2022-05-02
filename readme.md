@@ -1,0 +1,1 @@
+Projeto para fazer um programa para calculos de notas utilizando os métodos da faculdade.
